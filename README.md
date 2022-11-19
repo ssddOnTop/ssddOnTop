@@ -12,7 +12,6 @@ I am Sandipsinh Rathod :man_technologist:, a software developer from India :indi
 
 * :computer: I force electrons to do the math :muscle:
 * :crab:  Let's rewrite all in Rust :pleading_face:
-* :green_heart: Workout is a very important part of my daily routine :running_man:
 * :notebook_with_decorative_cover: If you have any questions, notes, ideas, feel free to contact me 💬
 * Yeah ofcourse this readme is copied from ![someone](https://github.com/TheBestTvarynka), I don't write this kind of stuff/use emojis often
 
