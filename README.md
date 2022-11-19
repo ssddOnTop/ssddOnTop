@@ -20,8 +20,8 @@ I am Sandipsinh Rathod :man_technologist:, a software developer from India :indi
 
 ![Rust](https://img.shields.io/badge/-Rust-5c1e0f?style=flat-square&logo=Rust)
 ![Linux](https://img.shields.io/badge/-Linux-0f331b?style=flat-square&logo=Linux)
-![macOS](https://img.shields.io/badge/macOS-blue?logo=apple&logoColor=white)
-
+<!-- ![macOS](https://img.shields.io/badge/macOS-blue?logo=apple&logoColor=white)
+ -->
 ![GraphQL](https://img.shields.io/badge/GraphQL-red?logo=graphql&logoColor=white)
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
