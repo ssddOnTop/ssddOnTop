@@ -3,7 +3,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ssddOnTop)
 
 [![Telegram Badge](https://img.shields.io/badge/-@ssdddev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ssdddev/)](https://ssdddev.t.me/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sandipsinh%20Rathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ssdddev/)](https://www.linkedin.com/in/ssdddev/)
 [![Gmail Badge](https://img.shields.io/badge/-sandip@ssdd.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandip@ssdd.dev)](mailto:sandip@ssdd.dev)
 
 ### 🙈 About me
