@@ -5,16 +5,14 @@
 [![Telegram Badge](https://img.shields.io/badge/-@ssdddev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ssdddev/)](https://ssdddev.t.me/)
 [![Gmail Badge](https://img.shields.io/badge/-sandip@ssdd.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandip@ssdd.dev)](mailto:sandip@ssdd.dev)
 
-### 🙈 About me
+### About
 
-I am Sandipsinh Rathod :man_technologist:, a software developer from India :india:. Loves Rust :crab: and open-source software.
+I am Sandipsinh Rathod, a software developer from India :india:. Loves Rust :crab: and open-source software.
 
-* :computer: I force electrons to do the math :muscle:
-* :crab:  Let's rewrite all in Rust :pleading_face:
-* :notebook_with_decorative_cover: If you have any questions, notes, ideas, feel free to contact me 💬
-* Yeah ofcourse this readme is copied from [someone](https://github.com/TheBestTvarynka), I don't write this kind of stuff/use emojis often
+* I force electrons to do the math :computer:
+* Let's rewrite all in Rust :crab:
 
-### ⚡ Technologies
+### Technologies
 
 ![Rust](https://img.shields.io/badge/-Rust-5c1e0f?style=flat-square&logo=Rust)
 ![Linux](https://img.shields.io/badge/-Linux-0f331b?style=flat-square&logo=Linux)
