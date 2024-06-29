@@ -2,7 +2,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ssddOnTop)
 
-[![Telegram Badge](https://img.shields.io/badge/-@ssdddev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ssdddev/)](https://ssdddev.t.me/)
 [![Gmail Badge](https://img.shields.io/badge/-sandip@ssdd.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandip@ssdd.dev)](mailto:sandip@ssdd.dev)
 
 ### About
