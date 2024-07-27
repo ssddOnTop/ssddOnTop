@@ -27,5 +27,4 @@ I am Sandipsinh Rathod, a software developer from India :india:. Loves Rust :cra
 ### 🧸 Fun
 
 [![stack**overflow**](https://img.shields.io/badge/-Stackoverflow-black?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/13327203/sandip)
-
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssddOnTop&hide=TeX&layout=compact) --->
+[![wakatime](https://wakatime.com/badge/user/018cece0-efb9-4eb3-b4d0-a866e8b9e490.svg)](https://wakatime.com/@018cece0-efb9-4eb3-b4d0-a866e8b9e490)
