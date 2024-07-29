@@ -1,4 +1,3 @@
-
 ## Hi there 👋
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ssddOnTop)
@@ -12,15 +11,17 @@
 
 I am Sandipsinh Rathod, a software developer from India :india:. Loves Rust :crab: and open-source software.
 
-* I force electrons to do the math :computer:
-* Let's rewrite all in Rust :crab:
+- I force electrons to do the math :computer:
+- Let's rewrite all in Rust :crab:
 
 ### Technologies
 
 ![Rust](https://img.shields.io/badge/-Rust-5c1e0f?style=flat-square&logo=Rust)
 ![Linux](https://img.shields.io/badge/-Linux-0f331b?style=flat-square&logo=Linux)
+
 <!-- ![macOS](https://img.shields.io/badge/macOS-blue?logo=apple&logoColor=white)
  -->
+
 ![GraphQL](https://img.shields.io/badge/GraphQL-red?logo=graphql&logoColor=white)
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
