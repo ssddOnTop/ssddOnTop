@@ -1,8 +1,12 @@
+
 ## Hi there 👋
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ssddOnTop)
-
 [![Gmail Badge](https://img.shields.io/badge/-sandip@ssdd.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandip@ssdd.dev)](mailto:sandip@ssdd.dev)
+
+## Stats
+
+![stats](./github-metrics.svg)
 
 ### About
 
