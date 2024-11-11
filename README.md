@@ -29,3 +29,5 @@ I am Sandipsinh Rathod, a software developer from India :india:. Loves Rust :cra
 
 [![stack**overflow**](https://img.shields.io/badge/-Stackoverflow-black?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/13327203/sandip)
 [![wakatime](https://wakatime.com/badge/user/018cece0-efb9-4eb3-b4d0-a866e8b9e490.svg)](https://wakatime.com/@018cece0-efb9-4eb3-b4d0-a866e8b9e490)
+
+<img src="https://wakatime.com/share/@ssdd/b54b7570-d339-45d1-9b25-ac61afe30a63.svg" width="400" height="300">
